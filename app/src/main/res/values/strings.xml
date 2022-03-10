@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoviesAppMVP</string>
+    <string name="getAllMovies">Get All Movies</string>
+    <string name="getFavMovies">Get Favorite Movies</string>
+    <string name="exit">Exit</string>
+    <string name="release_year">Release Year:</string>
+    <string name="movie_title">Title:</string>
+    <string name="addToFav">Add To Favorite</string>
+    <string name="deleteMovie">Delete Movie</string>
+</resources>
